@@ -1,8 +1,8 @@
-## Flixel Studio sandbox
+# Flixel Studio sandbox
 
 This project contains a set of game pieces created or adapted to to test Flixel Studio.
 
-## Note about code
+## Note about the code
 
 The majority of the code in this repository is a port of the game Mode by [Adam Atomic](http://adamatomic.com/), which was an early demo for Flixel. You can play the original Mode [here](http://www.flixel.org/mode/) and view the source code for that [here](https://github.com/AdamAtomic/Mode).
 
